@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = legarrecarnaud.92@gmail.com
+	name = Arnaud Le Garrec
